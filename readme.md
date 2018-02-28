@@ -19,12 +19,12 @@ Essa documentação foi construida com base na ferramenta gitbook. Buscamos aqui
 
 - Gerando build
 
-        gitbook build ./ ./book
+      gitbook build ./ ./book
 
 - Iniciando Serve Para Previa
 
-        gitbook serve ./ ./book
+      gitbook serve ./ ./book
 
 - Gerando Pdf do Conteúdo
 
-        gitbook pdf ./ ./book.pdf
+      gitbook pdf ./ ./book.pdf
